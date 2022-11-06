@@ -1,0 +1,15 @@
+{
+  "name": "Artur",
+  "age": 80,
+  "isBlocked": true,
+  "books": [
+    {
+      "name": "BN",
+      "year": 1990
+    },
+    {
+      "name": "BN2",
+      "year": 2090
+    }
+  ]
+}

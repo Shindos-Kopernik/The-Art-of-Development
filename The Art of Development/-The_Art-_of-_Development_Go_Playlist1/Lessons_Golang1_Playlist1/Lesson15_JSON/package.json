@@ -1,0 +1,18 @@
+{
+  "field": "vaiue",
+  "field2": 123,
+  "field3": true,
+  "field4": 3.14
+  "field5":[1,2,3,4,],
+  "field6": {
+    "f1": "v1"
+  },
+  "field7": [
+    {
+      "f3": "a"
+    },
+    {
+      "f4": "b"
+    }
+  ]
+}

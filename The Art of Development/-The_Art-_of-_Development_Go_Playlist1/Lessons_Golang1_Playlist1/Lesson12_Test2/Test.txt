@@ -1,0 +1,4 @@
+Полноценный webview с мониторингом изменений, перезапуском тестов и десктопными уведомлениями.
+Open Terminal
+go install github/smartystreets/goconvey/convey
+$GOPATH/bin/goconvey
