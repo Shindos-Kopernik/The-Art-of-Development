@@ -7,7 +7,7 @@ mongodb:
   host: localhost
   port: 27017
   database: user-service
-  auth_db:
-  username:
-  password:
+  auth_db: go-mongo
+  username: admin
+  password: admin
   collection: users
