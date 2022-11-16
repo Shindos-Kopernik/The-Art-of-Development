@@ -1,0 +1,14 @@
+---
+
+is_debug: true
+listen:
+  type: port
+  port: 1234
+mongodb:
+  host: localhost
+  port: 27017
+  database: user-service
+  auth_db: go-mongo
+  username: admin
+  password: admin
+  collection: users
