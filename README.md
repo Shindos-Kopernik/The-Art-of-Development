@@ -1,7 +1,7 @@
 ## _The Art of Development Lessons Golang._
 ___
 ## I created this project based on YouTube videos by the author, which is The Art of Development. 
-<img src="https://yt3.ggpht.com/_xdY-RP_D8H5HQCI8IS9V9Z3BF_E…89UkVkY-WO41eQuMvYVdsrQ=s88-c-k-c0x00ffffff-no-rj"/>
+
 [Link to author's channel](https://www.youtube.com/@TheArtofDevelopment)
 
 [Link to author's github](https://github.com/theartofdevel)
