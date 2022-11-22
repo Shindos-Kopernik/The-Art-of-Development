@@ -1,7 +1,7 @@
 ## _The Art of Development Lessons Golang._
 ___
 ## I created this project based on YouTube videos by the author, which is The Art of Development. 
-![](https://yt3.ggpht.com/_xdY-RP_D8H5HQCI8IS9V9Z3BF_E…89UkVkY-WO41eQuMvYVdsrQ=s88-c-k-c0x00ffffff-no-rj)
+<img src="https://yt3.ggpht.com/_xdY-RP_D8H5HQCI8IS9V9Z3BF_E…89UkVkY-WO41eQuMvYVdsrQ=s88-c-k-c0x00ffffff-no-rj"/>
 [Link to author's channel](https://www.youtube.com/@TheArtofDevelopment)
 
 [Link to author's github](https://github.com/theartofdevel)
@@ -17,6 +17,15 @@ ___
 ### Who started recording from 4 lessons. 
 ### Playlist2 Advanced lessons 1 to 7, Part1, 2, 3 completed, Lesson 8 Part1 complete. [Playlist2](https://www.youtube.com/playlist?list=PLP19RjSHH4aENxkai8lzF0ocA4EZyS0vn)
 ### Work continues, next in line Lesson 8 Part 2.
+
+
+
+
+
+
+
+
+
 
 
 
